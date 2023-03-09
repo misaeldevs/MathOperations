@@ -1,0 +1,29 @@
+body {
+    background: rgb(104, 114, 127);
+    font: normal 15pt Arial;
+}
+
+header {
+    color:black;
+    text-align: center;
+}
+
+section {
+    background: rgb(220, 205, 205);
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.233);
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+input{
+    text-align: center;
+    margin-bottom: 2px;
+}
